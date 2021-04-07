@@ -1,6 +1,4 @@
-// Starter code for Project 1
 
-// Change this to your NetId
 package dsa;
 
 import java.util.ArrayDeque; 
