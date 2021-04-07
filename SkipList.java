@@ -114,7 +114,7 @@ public class SkipList<T extends Comparable<? super T>> {
         return size == 0;
     }
 
-    Iterate through the elements of list in sorted order
+    // Iterate through the elements of list in sorted order
     public Iterator<T> iterator() {
         return new SkipListIterator<T>(head);
     }
